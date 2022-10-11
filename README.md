@@ -1,2 +1,2 @@
-# CI-Data-Driven-Poster
-This is a generative poster generation program.
+# DDP
+This is a prototype for a generative poster program using the P5js framework.
